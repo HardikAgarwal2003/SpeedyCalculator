@@ -67,7 +67,7 @@
             <com.google.android.material.button.MaterialButton
                 style="@style/digitButton"
                 android:onClick="onBackClick"
-                android:text="X"
+                android:text=""
                 app:icon="@drawable/ic_baseline_backspace_24"
                 android:hapticFeedbackEnabled="true"
                 android:id="@+id/btn_back"
